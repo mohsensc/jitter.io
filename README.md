@@ -1,9 +1,9 @@
 # RULES
 
-Mouse will be moved when:
--> Not moving
--> Every 6 and 7 seconds
--> Mouse movements are slow
+Mouse will be moved when:  
+-> Not moving  
+-> Every 6 and 7 seconds  
+-> Mouse movements are slow  
 
 Have fun!
 

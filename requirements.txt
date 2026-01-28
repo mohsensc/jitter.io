@@ -1,0 +1,5 @@
+pyautogui
+pynput
+
+# if you can't install pyautogui, try: 
+# pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org -r requirements.txt

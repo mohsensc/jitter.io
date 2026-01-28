@@ -7,7 +7,7 @@ Mouse will be moved when:
 
 Have fun!
 
-## Instalation
+## Installation
 
 ```bash
 pip install -r requirements.txt
